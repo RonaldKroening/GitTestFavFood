@@ -27,9 +27,6 @@ Satvik Matta - Noodles
 Jude Downing - Oreos
 Tammer Haddad - Also Sushi
 Ronald III- Coffee
-<<<<<<< HEAD
-=======
 Ronald IV- More Coffee
 Mayha Ali - Sushi
->>>>>>> 031d83bf42ba016fbfaeab32134c99c8bfe41961
 Aesha Kapoor - pasta
